@@ -194,7 +194,7 @@ OIBSIP
 
 ---
 
-# 👨‍💻 Author
+# 👩‍💻 Author
 
 **Mridula R**
 
